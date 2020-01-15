@@ -1,7 +1,12 @@
-﻿namespace Tasker.Repositories
+﻿using Tasker.Database;
+
+namespace Tasker.Repositories
 {
-    public class AuthorRepository
+    public class AuthorRepository : BaseRepository
     {
-        
+        public AuthorRepository(DatabaseContext context) : base(context)
+        {
+            
+        }
     }
 }

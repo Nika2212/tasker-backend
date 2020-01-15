@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\BS-Nika\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\BS-Nika\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\BS-Nika\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\BS-Nika\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\BS-Nika\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Tasker.213037802.00" t="ExcludeRecursive" />
+    <e p="E:\CS-Projects\Tasker" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include" />
+      <e p="Database" t="Include">
+        <e p="DatabaseContext.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20200115143824_InitialMigration.cs" t="Include" />
+        <e p="20200115143824_InitialMigration.Designer.cs" t="Include" />
+        <e p="DatabaseContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Author.cs" t="Include" />
+        <e p="Color.cs" t="Include" />
+        <e p="Task.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="Tasker.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Repositories" t="Include">
+        <e p="AuthorRepository.cs" t="Include" />
+        <e p="BaseRepository.cs" t="Include" />
+        <e p="ColorRepository.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IAuthorRepository.cs" t="Include" />
+          <e p="IColorRepository.cs" t="Include" />
+          <e p="ITaskRepository.cs" t="Include" />
+        </e>
+        <e p="TaskRepository.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Tasker.csproj" t="IncludeRecursive" />
+      <e p="Tasker.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
